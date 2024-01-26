@@ -1,1 +1,1 @@
-This is the repository containing datasets of the: "Optimization of Whole Slide Imaging scan settings for computer vision using human lung cancer tissue" article. Other data is available upon reqeust, as long as they comply with the privacy rules.
+This is the repository containing datasets of the: "Optimization of Whole Slide Imaging scan settings for computer vision using human lung cancer tissue" article. Other data is available upon request, as long as they comply with the privacy rules.
